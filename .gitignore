@@ -1,0 +1,15 @@
+# 临时文件与过程产物
+*.log
+*.tmp
+~$*
+Thumbs.db
+Desktop.ini
+
+# 图表过程裁片（交付物在用户桌面，不入库）
+*.png
+*.jpg
+*.jpeg
+
+# OCR 临时输出
+article_ocr.txt
+article_pos.txt
